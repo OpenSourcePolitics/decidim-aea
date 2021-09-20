@@ -83,6 +83,18 @@ translation:
 # Do not consider these keys missing:
 ignore_missing:
  - faker.*
+ - layouts.decidim.footer.*
+ - layouts.decidim.header.*
+ - layouts.decidim.user_menu.*
+ - decidim.admin.participatory_space_private_users.create.*
+ - decidim.authorization_handlers.osp_authorization_handler.explanation
+ - decidim.authorization_handlers.osp_authorization_handler.fields.*
+ - decidim.authorization_handlers.osp_authorization_handler.name
+ - decidim.authorization_handlers.osp_authorization_workflow.name
+ - decidim.verifications.authorizations.first_login.actions.osp_authorization_handler
+ - decidim.verifications.authorizations.first_login.actions.osp_authorization_workflow
+ - activemodel.attributes.osp_authorization_handler.*
+ - activemodel.attributes.participatory_process.private_space
 
 # Consider these keys used:
 ignore_unused:
