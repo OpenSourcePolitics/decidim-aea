@@ -1,5 +1,15 @@
 ---
 en:
+  decidim:
+    proposals:
+      proposals:
+        show:
+          answer: Answer
+          back_to: Back to
+          back_to_list: Back to list
+          changes_at_title: Changes at title
+          comments: Comments
+          edit_proposal: Edit proposal
   layouts:
     decidim:
       footer:
